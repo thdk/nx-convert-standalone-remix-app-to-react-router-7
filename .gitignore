@@ -47,3 +47,5 @@ public/build
 .env
 
 vite.config.*.timestamp*
+
+.react-router

@@ -15,16 +15,6 @@
   "nxCloudId": "6741caa8356631217691b169",
   "plugins": [
     {
-      "plugin": "@nx/remix/plugin",
-      "options": {
-        "startTargetName": "start",
-        "buildTargetName": "build",
-        "devTargetName": "dev",
-        "typecheckTargetName": "typecheck",
-        "serveStaticTargetName": "serve-static"
-      }
-    },
-    {
       "plugin": "@nx/vite/plugin",
       "options": {
         "buildTargetName": "build",
